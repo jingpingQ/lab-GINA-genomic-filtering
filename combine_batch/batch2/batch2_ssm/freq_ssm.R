@@ -1,7 +1,5 @@
 setwd("~/Desktop/normal/revisit_freq_filtering_May/batch2/jan_batch2_ssm/")
-# dir <- list.dirs()[-c(1:3,18:24)]
-# dir <- gsub("\\.\\/","",dir)
-#vaf_cutoff = 7
+
 library(ggplot2)
 library(data.table)
 library(plyr)
