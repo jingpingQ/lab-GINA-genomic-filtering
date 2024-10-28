@@ -1,0 +1,4 @@
+id	locus	name	var_reads	total_reads	var_read_prob
+s0	chr10 43612225	RET	1,1,600	629,629,629	0.5,0.5,0.5
+s1	chr16 89831279	FANCA	276,1,1	1056,1056,1056	0.5,0.5,0.5
+s2	chr7 140434586	BRAF	1,1,22	261,261,261	0.5,0.5,0.5
